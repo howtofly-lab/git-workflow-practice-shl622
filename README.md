@@ -7,4 +7,4 @@ Although it is deemed less sophisticated than some of the traditional databases,
 
 ## Comment by Leah Durrett
 
-I never knew much about Web3 but after reading this article I can see the different types of technologies that it can bring about such as play-to-earn games where you caan actual earn cryto tokens. I was under the impression that games such as these would be quite difficult to implement but I am interesting to see their development in the future. 
+I never knew much about Web3 but after reading this article I can see the different types of technologies that it can bring about such as play-to-earn games where you can actually earn cryto tokens. I was under the impression that games such as these would be quite difficult to implement but I am interested to see their development in the future. 
